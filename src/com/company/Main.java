@@ -5,8 +5,8 @@ public class Main {
     public static void main(String[] args) {
 	circle c = new circle();
     circle v = new circle();
-    c.set(4, 3, 2);
-    v.set(7.9, 3,2);
+    c.set(4f, 3f, 2f);
+    v.set(7.9f, 3f,2f);
     System.out.println(c.returnCenter());
     System.out.println(v.returnCenter());
     System.out.println(c.dist(v.x, v.y));

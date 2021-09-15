@@ -1,9 +1,9 @@
 package com.company;
 
 abstract class Shape {
-    double x;
-    double y;
-    double size;
+    float x;
+    float y;
+    float size;
 
     public String returnCenter(){
         return "X=" + this.x + ", Y=" + this.y;

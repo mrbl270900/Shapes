@@ -13,5 +13,6 @@ public class Main {
     System.out.println(v.overlap(v.dist(c.x, c.y), c.size));
     System.out.println(v.area());
     System.out.println(c.circum());
+    System.out.println(c.overlapPoint(4,7.1f));
     }
 }

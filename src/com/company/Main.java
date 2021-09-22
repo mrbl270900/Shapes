@@ -14,5 +14,10 @@ public class Main {
     System.out.println(v.area());
     System.out.println(c.circum());
     System.out.println(c.overlapPoint(4,7.1f));
+    triangel a = new triangel();
+    a.set(4f, 5f, 3f);
+    System.out.println(a.overlapPoint(6,6));
+    System.out.println(a.area());
+
     }
 }

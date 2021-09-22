@@ -13,3 +13,4 @@ abstract class Shape {
         return Math.sqrt(Math.pow(ox-this.x, 2)+Math.pow(oy-this.y, 2));
     }
 }
+

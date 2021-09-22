@@ -1,3 +1,3 @@
-# Sharpes
-projekt på datalogi RUC
-this is a simple java pogram that looks at sharpes 
+# Shapes
+Projekt på datalogi RUC
+this is a simple java pogram that looks at shapes 

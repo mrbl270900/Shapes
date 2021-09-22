@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d0db566-658f-4166-b0c6-842ca8a73229" name="Changes" comment="alle objekter er nu lavet">
+    <list default="true" id="7d0db566-658f-4166-b0c6-842ca8a73229" name="Changes" comment="alle objekter er nu lavet og virker med alle funktioner">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/shapes/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/shapes/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/shapes/com/company/triangel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/shapes/com/company/triangel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/triangel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/triangel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,9 +94,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -134,7 +138,7 @@
       <updated>1631528821116</updated>
       <workItem from="1631528823823" duration="16116000" />
       <workItem from="1632132468273" duration="1695000" />
-      <workItem from="1632292034459" duration="4365000" />
+      <workItem from="1632292034459" duration="7003000" />
     </task>
     <task id="LOCAL-00001" summary="nye filer">
       <created>1631687636107</created>
@@ -185,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632293775948</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="alle objekter er nu lavet og virker med alle funktioner">
+      <created>1632296876474</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632296876474</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +221,7 @@
     <MESSAGE value="made the circum for circel" />
     <MESSAGE value="made pointoverlap for circel" />
     <MESSAGE value="alle objekter er nu lavet" />
-    <option name="LAST_COMMIT_MESSAGE" value="alle objekter er nu lavet" />
+    <MESSAGE value="alle objekter er nu lavet og virker med alle funktioner" />
+    <option name="LAST_COMMIT_MESSAGE" value="alle objekter er nu lavet og virker med alle funktioner" />
   </component>
 </project>
